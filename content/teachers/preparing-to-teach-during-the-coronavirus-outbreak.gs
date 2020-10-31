@@ -19,7 +19,6 @@ Teachers should be prepared to adapt their approach, using digital teaching tool
 
 * physical resources (for example, pens/pencils, paper and printer)
 * digital devices (for example, laptop, tablet, smartphone)
-* fast, reliable internet
 
 One way to do this is to survey parents by email, text message or phone asking:
 
