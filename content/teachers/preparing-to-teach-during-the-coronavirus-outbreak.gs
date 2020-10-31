@@ -13,9 +13,9 @@ pagination:
 
 ## Assess pupils' education environments
 
-Not all pupils have access to the resources they need to learn effectively at home. Schools need to assess each pupil’s environment in order to assess the best way to deliver education.
+Not all pupils  to learn effectively at home. Schools need to assess each pupil’s environment in order to assess the best way to deliver education.
 
-Teachers should be prepared to adapt their approach, using digital teaching tools with some pupils and printed materials for others, or a combination of both. To get that mix right, you'll first need to get a better understanding of what kind of access each pupil has to:
+Teachers should be prepared to adapt their approach, using digital teaching tools with some pupils and printed materials for others, or a f both. To get that mix right, you'll first need to get a better understanding of what kind of access each pupil has to:
 
 * physical resources (for example, pens/pencils, paper and printer)
 * digital devices (for example, laptop, tablet, smartphone)
