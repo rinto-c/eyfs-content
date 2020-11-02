@@ -167,3 +167,83 @@ The assessment requirements are about when and how you must assess children’s 
 #### What this means in practice
 
 Teacher are NOT required to collect or record unnecessary evidence to prove accuracy of judgements, rather they should rely on their own professional judgement and knowledge of the child
+
+
+### 5. Changes to development matters: non-statutory guidance
+
+Development Matters is the non-statutory curriculum guidance for the early years foundation stage and it has also been updated alongside the new statutory framework. 
+
+It is non-statutory but we recommend that it is used alongside the new statutory framework. 
+
+Development matters is for:
+
+* early years practitioners
+* childminders
+* staff in nurseries, nursery schools, and nursery and reception classes in school
+
+#### The change
+
+* It is shorter (about two thirds the length of the previous version) to allow for more space to develop the right curriculum for the children you are working with
+
+* **Age bands have been simplified** (there are now three instead of six) - birth to three, 3 and 4 year olds and children in reception
+
+* **More space for professional judgement** - rather than setting out in detail the order of children’s development, there is room for you to make judgements based on your knowledge and experience
+
+#### What this means in practice
+
+/Content is being worked on./
+
+## What you need to do before September 2021
+
+What you know about the changes may depend on your role and type of childcare setting you work in. For example:
+
+* if you work as a childcare practitioner in a nursery, your manager may already be aware of the changes for September 2021 and be making plans
+
+* if you work as a nursery manager you may already be aware of the changes and be making plans for implementing them from September 2021
+
+* if you are a childminder, you may have heard about the changes through local support groups and are looking for support in implementing the changes from September 2021
+
+The Department for Education / We...
+
+## What you need to do from September 2021
+
+From September 2021, all childcare providers must follow the new statutory framework. Whatever your role and type of childcare setting you work in, you’ll need to be working to the new framework. However, we understand that you may need different information and support depending on your role.
+
+### Nursery leaders and managers 
+
+If you are a nursery leader or manager ensure you have: 
+
+* made contact with your local authority who will be able to offer advice about implementing the changes to the EYFS
+
+* designed your settings’ curriculum around the new Education Programmes, not the Early Learning Goals
+
+* consider what elements (of the ELGs?) need to be included within your curriculum across all areas of learning for the benefit of the children within your setting
+
+You may also find it helpful to have: 
+
+* briefed your staff about the changes
+
+
+### Childminders
+
+If you are a childminder, ensure you have: 
+
+* made contact with your local authority who will be able to offer advice and support about implementing the changes to the EYFS
+
+You may also find it helpful to: 
+
+* speak to other childminders in your area, for example by joining a local childminder support group to share experiences
+
+* seek advice from a childcare association you’re a member of, for example Pacey or childcare.co.uk
+
+### School reception teachers 
+
+If you are a school reception teacher, ensure you have: 
+ 
+* made contact with your local authority who will be able to offer advice and support about implementing the changes to the EYFS
+
+*the new [early years foundation stage profile handbook](https://www.gov.uk/government/publications/early-adopter-schools-eyfs-profile-handbook)
+
+You may also find it helpful to: 
+
+* access the exemplification materials [not yet available]
