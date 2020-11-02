@@ -3,7 +3,7 @@ title: Help for early years childcare providers
 lead_paragraph:  The Early Years Foundation Stage (EYFS) statutory framework has changed and will replace the existing framework from September 2021. Childcare providers can get the facts here about the changes and what they mean in practice.
 date: "3 November 2020"
 related_content:
-- name: Case studies — remote education practice for schools during coronavirus (COVID-19)
+- name: Case studies — read about Cathy Sutton's experience
   link: /case-studies/case-studies-collection/
 explore_the_topic:
 - name: Teaching standards, misconduct and practice
@@ -21,8 +21,6 @@ Contents
 
 <!-- ^This guidance was last updated to include new information on curriculum planning for a phased return to schools.^ -->
 
-<!-- {:.call-to-action}
-Read the latest [guidance for nurseries, schools and colleges](https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings), including information on opening to more pupils from 1 June. -->
 
 ## Why the changes are happening
 
@@ -247,3 +245,19 @@ If you are a school reception teacher, ensure you have:
 You may also find it helpful to: 
 
 * access the exemplification materials [not yet available]
+
+$CTA
+## Find a support group
+[Find a support group]() within your local area
+$CTA
+
+$CTA
+## Find training
+{button start}[Start now](https://gov.uk/random){/button}
+$CTA
+
+## Ofsted inspections from September 2021
+
+How and when you’ll be inspected by Ofsted depends on whether you’re on the [Childcare Register or the Early Years Register](https://www.gov.uk/ofsted-inspection-childcare-provider).
+
+All childcare providers can read [Ofsted’s inspection framework](https://www.gov.uk/government/publications/early-years-inspection-handbook-eif) so you’re aware of the processes and procedures under the education inspection framework (EIF).
