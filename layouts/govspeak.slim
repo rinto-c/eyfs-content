@@ -5,16 +5,15 @@ html.govuk-template lang='en'
 
   body.govuk-template__body
     == render '/partials/header.*'
-    == render '/partials/covid_bar.*'
+    / == render '/partials/covid_bar.*'
     .govuk-width-container
       == render '/partials/phase-banner.*'
-      == render '/partials/part-of-banner.*'
       / == render '/partials/status-indicator.*'
 
       main#main-content.govuk-main-wrapper
         .govuk-grid-row
           .govuk-grid-column-two-thirds
-            span.govuk-caption-l Collection
+            span.govuk-caption-l Guidance
             h1.govuk-heading-l = item[:title]
         - if item[:lead_paragraph]
           .govuk-grid-row

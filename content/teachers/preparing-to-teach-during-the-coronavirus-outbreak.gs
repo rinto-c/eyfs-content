@@ -17,20 +17,15 @@ Not all pupils  to learn effectively at home. Schools need to assess each pupilâ
 
 Teachers should be prepared to adapt their approach, using digital teaching tools with some pupils and printed materials for others, or a f both. To get that mix right, you'll first need to get a better understanding of what kind of access each pupil has to:
 
-* physical resources (for example, pens/pencils, paper and printer)
-* digital devices (for example, laptop, tablet, smartphone)
-
-One way to do this is to survey parents by email, text message or phone asking:
-
-* if their child has access to a digital device and internet connection
+* physical resources (for example, pens/pencils, paper 
 * what type of internet-connected digital device their child has access to (for example, laptop, desktop or tablet)
-* if their child will need to share the device, and with whom
+* if their child will need to sha kre the device, and with whom
 * what times during the day their child will have access to a device
 
 
 ## Assess your teaching environment
 
-Teaching from home is of course very different to teaching in the classroom. You may also be adjusting to significant changes to your home and family life at this time. Speak with fellow members of staff or your line manager if you're unable to manage your responsibilities caring for children or adults in your family alongside teaching.
+Teaching from home is of course very different to teaching in the classroom. You may also be adjusting to significant changes to your home and family life at this time. Speak with fellow members of staff or your line manager if yopu're unable to manage your responsibilities caring for children or adults in your family alongside teaching.
 
 You should assess the capability of your own internet connection and devices if you are teaching from home. If you want to live stream a lesson, for example, you'll need a fast, reliable broadband connection. Be sure to test this out before trying it with your pupils for the first time.
 
