@@ -99,7 +99,7 @@ Changes have been made to the wording within the Education Programmes, specifica
 
 ### What this means in practice
 
-/Content is being worked on./
+^(What would you like to see here?)^
 
 ## 2. Changes to the Early Learning Goals (ELG)
 
@@ -131,7 +131,7 @@ The ELGs have been changed to make them clearer and more specific. They are more
 
 The ELGs are a specific end-point assessment and should NOT be used as a curriculum
 
-/Content is being worked on./
+^(What would you like to see here?)^
 
 ## 3. Changes to safeguarding and welfare
 
@@ -186,7 +186,7 @@ It is non-statutory but we recommend that it is used alongside the new statutory
 
 ### What this means in practice
 
-/Content is being worked on./
+^(What would you like to see here?)^
 
 ## What you need to do before September 2021
 
