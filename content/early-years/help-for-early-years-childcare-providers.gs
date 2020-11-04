@@ -204,7 +204,7 @@ From September 2021, all childcare providers must follow the new statutory frame
 
 ### Nursery leaders and managers 
 
-If you are a nursery leader or manager ensure you have:
+If you are a nursery leader or manager you may find it helpful to have:
 
 * made contact with your local authority to find out what advice they can offer
 
@@ -216,13 +216,13 @@ You may also find it helpful to have:
 
 ### Nursery practitioners
 
-If you are a childcare practitioner in a nursery you may find it helpful to: 
+If you are a childcare practitioner in a nursery you may find it helpful to:
 
 * speak to your manager about how your work needs to adapt to the changes
 
 ### Childminders
 
-If you are a childminder, ensure you have: 
+If you are a childminder, you may find it helpful to have:
 
 * made contact with [your local authority](https://www.gov.uk/find-local-council) who will be able to offer advice and support about implementing the changes to the EYFS
 
