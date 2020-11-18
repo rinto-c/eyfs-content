@@ -82,15 +82,15 @@ Early years settings across England share their stories as they prepare for the 
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [How we’re reducing paperwork to allow more time with the children](/early-years/help-for-early-years-providers-and-professionals#case-studies)
+#### [How we’re reducing paperwork to allow more time with the children](/early-years/case-studies/how-we-are-reducing-paperwork-to-allow-more-time-with-the-children)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [How we’re upskilling staff](/early-years/help-for-early-years-providers-and-professionals#case-studies)
+#### [How we’re upskilling staff](/early-years/case-studies/how-we-are-upskilling-staff)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [We’ve been trailing the new EYFS framework, and this is what we’ve found  ](/early-years/help-for-early-years-providers-and-professionals#case-studies)
+#### [We’ve been trailing the new EYFS framework, and this is what we’ve found  ](/early-years/case-studies/we-have-been-trailing-the-new-eyfs-framework-and-this-is-what-we-have-found)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 
 
