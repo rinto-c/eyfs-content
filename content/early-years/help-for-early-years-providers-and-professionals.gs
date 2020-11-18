@@ -44,11 +44,13 @@ Contents
 
 Experts in early years education share their insight into the EYFS changes and offer advice on implementing them in your setting.
 
-Julian Grenier, author of the new Development Matters, [explains why change is needed and the research behind the changes](https://youtu.be/kMKNvRaVCuE?t=1243)
+Julian Grenier, author of the new Development Matters, [explains why change is needed and the research behind the changes](https://youtu.be/kMKNvRaVCuE?t=1243).
  
-[How recent research into child development has influenced the changes]()
+Sarah Neville, Ofsted registered childminder, early years writer, trainer and consultant hosts a webinar to discuss [what the EYFS changes mean for childminders]().
 
-Sue Asquith, early childhood consultant [shares her experience in supporting children with Special Educational Needs]()
+Sue Asquith, early childhood consultant [shares her experience in supporting children with Special Educational Needs]().
+
+Liz Bayram, Pacey Chief Executive discusses the [vital role practitioners play in helping children prepare for the future]().
 
 ## Get help to improve your practice
 
@@ -88,13 +90,13 @@ Early years settings across England share their stories as they prepare for the 
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
-#### [Early adopter](/early-years/help-for-early-years-providers-and-professionals#case-studies)
+#### [We’ve been trailing the new EYFS framework, and this is what we’ve found  ](/early-years/help-for-early-years-providers-and-professionals#case-studies)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 
 
-## Find training
+## Get trained on EYFS in your practice
 
-#### [Webinars](/early-years/help-for-early-years-providers-and-professionals#find-training)
+#### [Events and webinars](/early-years/help-for-early-years-providers-and-professionals#find-training)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
@@ -114,4 +116,3 @@ Early years settings across England share their stories as they prepare for the 
 
 #### [A peer-led discussion forum for childcare providers](https://esfahelp.education.gov.uk/hc/en-gb/community/topics/360000847259-Training-Providers)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
-<hr class="govuk-!-margin-top-0">
