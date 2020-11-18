@@ -78,7 +78,7 @@ Liz Bayram, Pacey Chief Executive discusses the [vital role practitioners play i
 
 Early years settings across England share their stories as they prepare for the EYFS changes.
 
-#### [How we’re devising our curriculum around the new changes](/early-years/help-for-early-years-providers-and-professionals#case-studies)
+#### [How we’re devising our curriculum around the new changes](/early-years/case-studies/how-we-are-devising-our-curriculum-around-the-new-changes)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 

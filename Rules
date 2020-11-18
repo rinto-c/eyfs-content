@@ -38,6 +38,12 @@ compile '/early-years/resources/*.gs' do
   write item.identifier.without_ext + '/index.html'
 end
 
+compile '/early-years/case-studies/*.gs' do
+  filter :govspeak
+  layout '/early-years-case-study.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 compile '/curriculum/primary/reception/*.slim' do
   filter :slim
   layout '/curriculum-year-group-subject.*'
