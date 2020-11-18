@@ -3,15 +3,15 @@ title: "Early years resources by topic: Mathematics"
 # lead_paragraph:  The Early Years Foundation Stage (EYFS) statutory framework has changed and will replace the existing framework from September 2021. Childcare providers can get the facts here about the changes and what they mean in practice.
 date: "3 November 2020"
 related_content:
-- name: Case studies — read about Cathy Sutton's experience
-  link: /case-studies/case-studies-collection/
-explore_the_topic:
-- name: Teaching standards, misconduct and practice
-  link: https://www.gov.uk/education/teaching-standards-misconduct-and-practice
-- name: School curriculum and teaching during coronavirus
-  link: https://www.gov.uk/coronavirus/education-and-childcare
-- name: Closures, exams and managing a school or early years setting during coronavirus
-  link: https://www.gov.uk/coronavirus/education-and-childcare
+- name: "Case-study: How we’re devising our curriculum around the new changes"
+  link: /early-years/case-studies/how-we-are-devising-our-curriculum-around-the-new-changes/
+# explore_the_topic:
+# - name: Teaching standards, misconduct and practice
+#   link: https://www.gov.uk/education/teaching-standards-misconduct-and-practice
+# - name: School curriculum and teaching during coronavirus
+#   link: https://www.gov.uk/coronavirus/education-and-childcare
+# - name: Closures, exams and managing a school or early years setting during coronavirus
+#   link: https://www.gov.uk/coronavirus/education-and-childcare
 ---
 
 Contents
