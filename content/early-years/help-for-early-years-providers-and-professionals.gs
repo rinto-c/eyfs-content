@@ -35,7 +35,7 @@ Contents
 - [Physical development](/early-years/help-for-early-years-providers-and-professionals#find-resources-by-topic)
 - [Personal, social and emotional development](/early-years/help-for-early-years-providers-and-professionals#find-resources-by-topic)
 - [Literacy](/early-years/help-for-early-years-providers-and-professionals#find-resources-by-topic)
-- [Mathematics]()
+- [Mathematics](/early-years/resources/mathematics)
 - [Understanding the world](/early-years/help-for-early-years-providers-and-professionals#find-resources-by-topic)
 - [Expressive arts and design](/early-years/help-for-early-years-providers-and-professionals#find-resources-by-topic)
 
