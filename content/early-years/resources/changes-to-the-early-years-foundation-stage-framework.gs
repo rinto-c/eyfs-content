@@ -3,8 +3,8 @@ title: "Changes to the early years foundation stage framework"
 lead_paragraph:  "The early years foundation stage (EYFS) framework changes in September 2021. Childcare providers can get the facts about the changes and what they mean here."
 date: "19 November 2020"
 related_content:
-- name: "Case-study: How we’re devising our curriculum around the new changes"
-  link: /early-years/case-studies/how-we-are-devising-our-curriculum-around-the-new-changes/
+- name: "Case-study: Planning our curriculum around the new framework"
+  link: /early-years/case-studies/planning-our-curriculum-around-the-new-framework/
 collection_content:
 - name: "Help for early years providers and professionals"
   link: /early-years/help-for-early-years-providers-and-professionals
@@ -200,15 +200,15 @@ You may also find it helpful to:
 * seek advice from a childcare association you’re a member of, such as Pacey or childcare.co.uk 
 * consider contacting other childminders in your area, for example by joining a childminder support group to share experiences
 
-$CTA
+$E
 ## Find a support group
 [Find a support group]() within your local area
-$CTA
+$E
 
-$CTA
-## Find training, events
-{button start}[Start now](https://gov.uk/random){/button}
-$CTA
+$E
+## Free trainings and events
+[Find free training and events]() to help with the new framework
+$E
 
 ## What you need to do from September 2021 
 

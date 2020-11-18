@@ -1,7 +1,7 @@
 ---
 title: "Help for early years providers and professionals"
-lead_paragraph: "Information, guidance, practical support and training for early years providers and professionals. "
-date: "20 November 2020"
+lead_paragraph: "Information, guidance, practical support and training for delivering the early years foundation stage (EYFS)."
+date: "19 November 2020"
 # related_content:
 #   - name: Adapting teaching practise for remote education
 #     link: /remote-teaching/adapting-teaching-practise-for-remote-education/
@@ -46,11 +46,11 @@ Experts in early years education share their insight into the EYFS changes and o
 
 Julian Grenier, author of the new Development Matters, [explains why change is needed and the research behind the changes](https://youtu.be/kMKNvRaVCuE?t=1243).
  
-Sarah Neville, Ofsted registered childminder, early years writer, trainer and consultant hosts a webinar to discuss [what the EYFS changes mean for childminders]().
+Sarah Neville, Ofsted registered childminder, early years writer, trainer and consultant hosts a webinar to discuss [what the EYFS changes mean for childminders](/early-years/help-for-early-years-providers-and-professionals/#get-expert-advice).
 
-Sue Asquith, early childhood consultant [shares her experience in supporting children with Special Educational Needs]().
+Sue Asquith, early childhood consultant [shares her experience in supporting children with special educational needs](/early-years/help-for-early-years-providers-and-professionals/#get-expert-advice).
 
-Liz Bayram, Pacey Chief Executive discusses the [vital role practitioners play in helping children prepare for the future]().
+Liz Bayram, Pacey Chief Executive discusses the [vital role practitioners play in helping children prepare for the future](/early-years/help-for-early-years-providers-and-professionals/#get-expert-advice).
 
 ## Get help to improve your practice
 
@@ -78,7 +78,7 @@ Liz Bayram, Pacey Chief Executive discusses the [vital role practitioners play i
 
 Early years settings across England share their stories as they prepare for the EYFS changes.
 
-#### [How we’re devising our curriculum around the new changes](/early-years/case-studies/how-we-are-devising-our-curriculum-around-the-new-changes)
+#### [Planning our curriculum around the new framework](/early-years/case-studies/planning-our-curriculum-around-the-new-framework)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 <hr class="govuk-!-margin-top-0">
 
@@ -94,7 +94,7 @@ Early years settings across England share their stories as they prepare for the 
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
 
 
-## Get trained on EYFS in your practice
+## Get training on the EYFS
 
 #### [Events and webinars](/early-years/help-for-early-years-providers-and-professionals#find-training)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>
@@ -114,5 +114,5 @@ Early years settings across England share their stories as they prepare for the 
 
 ## Online support group
 
-#### [A peer-led discussion forum for childcare providers](https://esfahelp.education.gov.uk/hc/en-gb/community/topics/360000847259-Training-Providers)
+#### [A discussion forum led by early years providers and professionals](https://esfahelp.education.gov.uk/hc/en-gb/community/topics/360000847259-Training-Providers)
 <p class="govuk-body govuk-!-font-size-14"> 8 July 2020 </p>

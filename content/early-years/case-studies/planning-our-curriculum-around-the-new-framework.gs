@@ -1,5 +1,5 @@
 ---
-title: "How we’re devising our curriculum around the new changes"
+title: "Planning our curriculum around the new framework"
 lead_paragraph: "A nursery in Yorkshire describes the changes it’s making to the curriculum ahead of the EYFS changes in September 2021."
 related_content:
   - name: "Case-study: How we’re reducing paperwork to allow more time with the children"
