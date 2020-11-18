@@ -26,9 +26,11 @@ Children’s understanding of number starts from birth and develops gradually. A
 
 ## Find maths activities
 
-Activities which introduce children to maths from an early age are available from Famly.
+^[Maths activities by age](/pdf/maths-activities-by-age.pdf) band are available to download.^
 
-Examples of the toys and activities that can help encourage development in numeracy, are available from Pacey.
+Activities which introduce children to maths from an early age are available from [Famly](https://famly.co/blog/inspiration/10-creative-early-years-maths-activities/).
+
+Examples of the toys and activities that can help encourage development in numeracy, are available from [Pacey](https://www.pacey.org.uk/news-and-views/pacey-blog/2015/march-2015/play-by-numbers/).
 
 
 ## Get peer-to-peer advice
@@ -39,4 +41,4 @@ Video case study - Lizzie is a nursery manager from Blackpool, she talks through
 
 To ensure that all early years practitioners are up to date with the new requirements of the EYFS maths curriculum there are training courses available. 
 
-A course which focuses on developing excellent space, shape, and measure provision can be found at the Early Years Training Hub.
+A course which focuses on [developing excellent space, shape, and measure](https://www.theearlyyearstraininghub.co.uk/en/course/maths-space,-shape-and-measure-childminding) provision can be found at the Early Years Training Hub.

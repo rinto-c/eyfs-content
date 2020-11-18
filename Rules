@@ -33,7 +33,7 @@ compile '/not-in-use-curriculum/not-in-use/primary/*.gs' do
 end
 
 compile '/early-years/resources/*.gs' do
-  filter :govspeak
+  filter :govspeak, toc_levels: [1, 2]
   layout '/early-years-guidance.*'
   write item.identifier.without_ext + '/index.html'
 end

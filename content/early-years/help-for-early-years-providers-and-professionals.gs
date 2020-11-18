@@ -26,7 +26,7 @@ Contents
 
 ## Guidance on changes to the early years framework
 
-- [What is changing and when](/early-years/help-for-early-years-providers-and-professionals#guidance-on-changes-to-the-early-years-framework)
+- [What is changing and when](/early-years/resources/changes-to-the-early-years-foundation-stage-framework)
 - [Vodcast: why the changes are happening](https://youtu.be/kMKNvRaVCuE?t=217)
 
 ## Find resources by topic
