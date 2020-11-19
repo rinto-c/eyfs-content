@@ -97,7 +97,7 @@ Changes have been made to the wording in the education programmes. Specifically 
 
 The [new development matters](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/914443/Development_Matters_-_Non-statutory_curriculum_guidance_for_the_early_years_foundation_stage__1_.pdf) shows you how to use the education programmes.
 
-## 2. Changes to the Early Learning Goals (ELG)
+## 2. Changes to safeguarding and welfare
 
 ### The changes
 
@@ -144,7 +144,7 @@ It’s not compulsory but we recommend that you use it with the new statutory fr
 * There’s more room for professional judgement, rather than setting out in detail the order of children’s development. You can make more judgements based on your knowledge and experience, instead of using the framework to track children’s progress
 
 
-## Changes to the early learning goals (ELG)
+## 5. Changes to the early learning goals (ELG)
 
 The early learning goals summarise the knowledge, skills and understanding that all young children should have gained by the end of the academic year in which they turn 5, the reception year.
 
@@ -166,7 +166,7 @@ The early learning goals have been changed to make them clearer and more specifi
 
 These goals are for reception teachers to use, rather than childcare practitioners.
 
-### What you need to do before September 2021
+## What you need to do before September 2021
 
 You do not need to make the changes now. But you should make plans to implement them in September 2021. Take time to read the [early years foundation stage early adopter](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896810/EYFS_Early_Adopter_Framework.pdf) framework and [new development matters](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/914443/Development_Matters_-_Non-statutory_curriculum_guidance_for_the_early_years_foundation_stage__1_.pdf).
 

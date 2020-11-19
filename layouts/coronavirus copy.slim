@@ -1,0 +1,63 @@
+doctype html
+
+html.govuk-template lang='en'
+  == render '/partials/head.*'
+
+  body.govuk-template__body
+    script
+      | document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+
+    a.govuk-skip-link href="#main-content"
+      | Skip to main content
+
+    header.govuk-header.masthead role='banner' data-module='govuk-header'
+      .govuk-header__container.govuk-width-container
+        .govuk-header__logo
+          a.govuk-header__link.govuk-header__link--homepage href="/"
+            span.govuk-header__logotype
+              == render '/partials/crown.*'
+
+            span.govuk-header__logotype-text
+              | GOV.UK
+
+      .submasthead
+        .govuk-width-container
+          .govuk-grid-row.submasthead__top_row
+            .govuk-grid-column-two-thirds
+              section.submasthead__content
+
+                span.govuk-caption-xl
+                  | Part of #{link_to('Coronavirus (COVID-19)', 'https://www.gov.uk/coronavirus').html_safe}
+                h1.govuk-heading-xl Education and childcare 
+
+
+                h3.govuk-heading-s How universities, nurseries, schools and colleges are working during coronavirus (COVID-19)
+
+                ul.govuk-list.govuk-list--bullet
+                  li Schools and nurseries remain closed to all pupils except children of keyworkers and vulnerable children
+                  li Exams are cancelled and grades will be assessed differently
+                  li Free school meals or food vouchers will be available for pupils not attending school
+
+                p.govuk-body
+                  | Do not meet others, even friends or family. You can spread
+                    the virus even if you don’t have symptoms.
+                    
+      .covid__page-guidance
+        .govuk-width-container
+          .govuk-grid-row
+            .govuk-grid-column-two-thirds
+              h2 class="gem-c-heading gem-c-heading--font-size-19 govuk-!-margin-bottom-3" What you can do now
+              ul.govuk-list
+                li.covid__list-item
+                  span class="covid__list-bullet" == render '/partials/coronavirus-arrow.*'
+                  a class="govuk-link govuk-!-font-weight-bold" href="#"
+                    | Protective measures: keep children and staff safe when school reopen
+                li.covid__list-item
+                  span class="covid__list-bullet" == render '/partials/coronavirus-arrow.*'
+                  a class="govuk-link govuk-!-font-weight-bold" href="#"
+                    | School reopenings: prepare to reopen your school
+
+    .govuk-width-container
+      main#main-content.govuk-main-wrapper
+        == yield
+    == render '/partials/footer.*'

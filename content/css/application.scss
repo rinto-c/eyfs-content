@@ -96,10 +96,10 @@ code {
 
   .submasthead {
     border-top: 10px solid govuk-colour('yellow');
-    background-color: $submasthead-bg;
+    background-color: govuk-colour('white');
 
     * {
-      color: govuk-colour('white');
+      color: govuk-colour('black');
     }
 
     .submasthead__links-header {
@@ -112,7 +112,7 @@ code {
     }
 
     .submasthead__content {
-      margin: 2rem 0;
+      margin: 4rem 0;
     }
 
   }
