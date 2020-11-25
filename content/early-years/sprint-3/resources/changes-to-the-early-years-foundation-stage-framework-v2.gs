@@ -10,7 +10,7 @@ collection_content:
   link: /early-years/help-for-early-years-providers-and-professionals
 explore_the_topic:
 - name: Help for early years providers and professionals
-  link: /early-years/help-for-early-years-providers-and-professionals
+  link: /early-years/sprint-3/help-for-early-years-providers-and-professionals
 ---
 
 Contents

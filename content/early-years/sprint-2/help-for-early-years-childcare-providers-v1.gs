@@ -41,7 +41,7 @@ The framework is for all early years childcare providers in all settings, includ
 
 You may have already heard that the framework is changing from September 2021 and be wondering what the changes are and how they affect you.
 
-What you need to do [ahead of the changes](/early-years/help-for-early-years-childcare-providers/#what-you-need-to-do-before-september-2021) will depend on your role and the type of childcare setting you work in. For example, if you work as a childcare practitioner in a nursery, your manager may already be aware of the changes for September 2021.
+What you need to do [ahead of the changes](/early-years/sprint-2/help-for-early-years-childcare-providers-v1/#what-you-need-to-do-before-september-2021) will depend on your role and the type of childcare setting you work in. For example, if you work as a childcare practitioner in a nursery, your manager may already be aware of the changes for September 2021.
 
 ## Timeline of changes
 

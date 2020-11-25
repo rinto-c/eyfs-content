@@ -32,21 +32,21 @@ compile '/not-in-use-curriculum/not-in-use/primary/*.gs' do
   write item.identifier.without_ext + '/index.html'
 end
 
-compile '/early-years/resources/*.gs' do
+compile '/early-years/sprint-2/*.gs' do
   filter :govspeak, toc_levels: [1, 2]
   layout '/early-years-guidance.*'
   write item.identifier.without_ext + '/index.html'
 end
 
-compile '/early-years/case-studies/*.gs' do
-  filter :govspeak
-  layout '/early-years-case-study.*'
+compile '/early-years/sprint-3/resources/*.gs' do
+  filter :govspeak, toc_levels: [1, 2]
+  layout '/early-years-guidance.*'
   write item.identifier.without_ext + '/index.html'
 end
 
-compile '/curriculum/primary/reception/*.slim' do
-  filter :slim
-  layout '/curriculum-year-group-subject.*'
+compile '/early-years/sprint-3/case-studies/*.gs' do
+  filter :govspeak
+  layout '/early-years-case-study.*'
   write item.identifier.without_ext + '/index.html'
 end
 

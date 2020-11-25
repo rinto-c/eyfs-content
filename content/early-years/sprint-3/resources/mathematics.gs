@@ -4,7 +4,7 @@ title: "Early years resources by topic: mathematics"
 date: "3 November 2020"
 related_content:
 - name: "Case-study: Planning our curriculum around the new framework"
-  link: /early-years/case-studies/planning-our-curriculum-around-the-new-framework/
+  link: /early-years/sprint-3/case-studies/planning-our-curriculum-around-the-new-framework/
 # explore_the_topic:
 # - name: Teaching standards, misconduct and practice
 #   link: https://www.gov.uk/education/teaching-standards-misconduct-and-practice

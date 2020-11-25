@@ -118,6 +118,13 @@ code {
   }
 }
 
+.content-cards {
+  background-color: govuk-colour("white");
+  border: 2px solid govuk-colour("light-grey");
+  border-bottom: 8px solid govuk-colour("light-grey");
+  @include govuk-responsive-padding(6);
+}
+
 .covid__page-guidance {
   @include govuk-responsive-padding(8, "top");
   @include govuk-responsive-padding(6, "bottom");
