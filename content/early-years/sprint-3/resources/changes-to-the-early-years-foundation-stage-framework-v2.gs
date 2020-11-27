@@ -4,10 +4,10 @@ lead_paragraph:  "The early years foundation stage (EYFS) framework changes in S
 date: "19 November 2020"
 related_content:
 - name: "Case-study: Planning our curriculum around the new framework"
-  link: /early-years/case-studies/planning-our-curriculum-around-the-new-framework/
+  link: /early-years/sprint-3/case-studies/planning-our-curriculum-around-the-new-framework/
 collection_content:
 - name: "Help for early years providers and professionals"
-  link: /early-years/help-for-early-years-providers-and-professionals
+  link: /early-years/sprint-3/help-for-early-years-providers-and-professionals
 explore_the_topic:
 - name: Help for early years providers and professionals
   link: /early-years/sprint-3/help-for-early-years-providers-and-professionals
