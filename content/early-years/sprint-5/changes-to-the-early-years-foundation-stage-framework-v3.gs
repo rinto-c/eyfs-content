@@ -201,8 +201,8 @@ You may also find it helpful to:
 * consider contacting other childminders in your area, for example by joining a childminder support group to share experiences
 
 $E
-## Access the learning centre
-[Access the free learning centre]() to learn more about EYFS and how to implement the new framework in your practice.
+## Access the resource centre
+[Access the free resource centre]() for practical support on the EYFS framework.
 $E
 
 ## What you need to do from September 2021 
