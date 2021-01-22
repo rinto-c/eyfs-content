@@ -50,6 +50,12 @@ compile '/early-years/sprint-5/*.gs' do
   write item.identifier.without_ext + '/index.html'
 end
 
+compile '/early-years/beta-sprint-1/*.gs' do
+  filter :govspeak, toc_levels: [1, 2]
+  layout '/early-years-guidance.*'
+  write item.identifier.without_ext + '/index.html'
+end
+
 compile '/early-years/sprint-3/case-studies/*.gs' do
   filter :govspeak
   layout '/early-years-case-study.*'

@@ -3,101 +3,37 @@ title: Home
 ---
 
 .govuk-grid-row
-  .govuk-grid-column-one-third
-    .content-cards
-      h2 class="govuk-heading-m" Communication and language
-      p.govuk-body Information, guidance, practical support and training for delivering the early years foundation stage (EYFS).
+  div class="govuk-grid-column-one-half govuk-!-margin-bottom-4"
+    h2 class="govuk-heading-l"Alpha
+    h3 class="govuk-heading-m" Sprint 2
+    ul class="govuk-list"
+        li
+            a class="govuk-link" href="/early-years/sprint-2/help-for-early-years-childcare-providers-v1" class="govuk-link govuk-body"Guidance document – v1
 
-  .govuk-grid-column-one-third
-    .content-cards
-      h2 class="govuk-heading-m" Physical development
-      p.govuk-body Information, guidance, practical support and training for delivering the early years foundation stage (EYFS).
+    h3 class="govuk-heading-m" Sprint 3
+    ul class="govuk-list"
+        li
+            a class="govuk-link" href="/early-years/sprint-3/resources/changes-to-the-early-years-foundation-stage-framework-v2"Guidance document – v2
+        li
+            a class="govuk-link" href="/early-years/sprint-3/help-for-early-years-providers-and-professionals"Landing page for 7 prime areas
+        li
+            a class="govuk-link" href="/early-years/sprint-3/resources/mathematics"Mathematics topic
 
-  .govuk-grid-column-one-third
-    .content-cards
-      h2 class="govuk-heading-m" Personal, social and emotional development
-      p.govuk-body Information, guidance, practical support and training for delivering the early years foundation stage (EYFS).
+        li
+            a class="govuk-link" href="/early-years/sprint-3/case-studies/how-we-are-reducing-paperwork-to-allow-more-time-with-the-children"Case study
+
+    h3 class="govuk-heading-m" Sprint 5
+    ul class="govuk-list"
+        li
+            a class="govuk-link" href="/early-years/sprint-5/changes-to-the-early-years-foundation-stage-framework-v3"Guidance document – v3
+        li
+            a class="govuk-link" href="https://eyfs-design-history.netlify.app/alpha-phase/sprint-five/"Concept for the new service
+
+  div class="govuk-grid-column-one-half govuk-!-margin-bottom-4"
+    h2 class="govuk-heading-l"Beta
+    h3 class="govuk-heading-m" Sprint 1
+    ul class="govuk-list"
+        li
+            a class="govuk-link" href="/early-years/beta-sprint-1/changes-to-the-early-years-foundation-stage-framework-v5" class="govuk-link govuk-body"Guidance document – v5
 
 
-.govuk-grid-row
-  .govuk-grid-column-two-thirds
-
-    #accordion-default.govuk-accordion[data-module="govuk-accordion"]
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-1.govuk-accordion__section-button
-              | School curriculum and teaching
-
-        #accordion-default-content-1.govuk-accordion__section-content
-          h3.govuk-heading-s
-            | For parents
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Guidance for parents and carers helping children learn from home", "/education-and-childcare/teachers/").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Find resources to support home learning", "#").html_safe
-          h3.govuk-heading-s
-            | For teachers and leaders
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Guidance for teaching children online", "/education-and-childcare/teaching-during-coronavirus/").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Shared practice for schools teaching remotely", "/remote-teaching/examples-of-teaching-practice-during-coronavirus/").html_safe
-
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-2.govuk-accordion__section-button
-              | Pupil wellbeing and safety
-        #accordion-default-content-2.govuk-accordion__section-content
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Supporting children and young people’s mental health and wellbeing", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Free school meals", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Implementing social distancing in education and childcare settings", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Guidance on isolation for residential educational settings", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Supporting vulnerable children", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("SEND risk assessment guidance", "#").html_safe
-
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-2.govuk-accordion__section-button
-              | School reopenings, exams and managing a school or early years setting
-        #accordion-default-content-2.govuk-accordion__section-content
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Schools opening for children of key workers and vulnerable children", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Guidance for schools and local authorities on closures", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Early years and childcare closures", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Guidance on early years education", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Exam cancellations, results and appeals", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Changes to data collection", "#").html_safe
-
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-3.govuk-accordion__section-button
-              | Funding and support for education and childcare
-        #accordion-default-content-3.govuk-accordion__section-content
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Get help with technology for remote education during coronavirus", "/teachers/help-with-technology/").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Financial support for education, early years and children’s social care", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Exceptional costs funding", "#").html_safe
-
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-4.govuk-accordion__section-button
-              | Student accommodation, travel and financial support
-        #accordion-default-content-4.govuk-accordion__section-content
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("Student loans: current students", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Student loans: prospective students", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Universities: teaching, exams, accommodation, fees, loans, visas", "#").html_safe
-
-      .govuk-accordion__section
-        .govuk-accordion__section-header
-          h2.govuk-accordion__section-heading
-            span#accordion-default-heading-5.govuk-accordion__section-button
-              | Further and higher education and vocational training
-        #accordion-default-content-5.govuk-accordion__section-content
-          ul.govuk-list
-            li class="govuk-!-margin-bottom-3" = link_to("University admissions", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("Apprentices, employers and training providers", "#").html_safe
-            li class="govuk-!-margin-bottom-3" = link_to("College closures", "#").html_safe

@@ -95,7 +95,7 @@ code {
   $submasthead-bg: #272828;
 
   .submasthead {
-    border-top: 10px solid govuk-colour('yellow');
+    border-top: 10px solid govuk-colour('blue');
     background-color: govuk-colour('white');
 
     * {
@@ -112,7 +112,7 @@ code {
     }
 
     .submasthead__content {
-      margin: 4rem 0;
+      margin: 4rem 0 2rem 0;
     }
 
   }
