@@ -92,8 +92,6 @@ code {
 
   }
 
-  $submasthead-bg: #272828;
-
   .submasthead {
     border-top: 10px solid govuk-colour('blue');
     background-color: govuk-colour('white');
@@ -116,13 +114,6 @@ code {
     }
 
   }
-}
-
-.content-cards {
-  background-color: govuk-colour("white");
-  border: 2px solid govuk-colour("light-grey");
-  border-bottom: 8px solid govuk-colour("light-grey");
-  @include govuk-responsive-padding(6);
 }
 
 .covid__page-guidance {
