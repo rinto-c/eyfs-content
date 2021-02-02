@@ -211,5 +211,5 @@ You can read [Ofsted’s inspection framework](https://www.gov.uk/government/pub
 
 $CTA
 ## Help for early years providers
-Access the **[Help for early years providers](#ofsted-inspections-from-september-2021)** service to find additional support on EYFS framework.
+Access the **[Help for early years providers](https://eyfs-framework.herokuapp.com/main/Alpha_assessment)** service to find additional support on EYFS framework.
 $CTA
